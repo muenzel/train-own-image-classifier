@@ -55,6 +55,7 @@ pip install torch torchvision numpy pillow matplotlib seaborn
 
 ## Project Structure
 
+```bash
 .
 ├── train.py
 ├── predict.py
@@ -65,7 +66,7 @@ pip install torch torchvision numpy pillow matplotlib seaborn
 │   ├── valid/
 │   └── test/
 └── checkpoint.pth (created after training)
-
+```
 
 ## Training the Model
 
