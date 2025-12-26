@@ -41,14 +41,12 @@ To run this project, you'll need Python 3 and the following libraries:
 - PyTorch
 - Torchvision
 - NumPy
-- Pillow
-- Matplotlib
-- Seaborn
+- Pillow (PIL)
 
 You can install them using pip:
 
 ```bash
-pip install torch torchvision numpy pillow matplotlib seaborn
+pip install torch torchvision numpy pillow
 ```
 
 ---
